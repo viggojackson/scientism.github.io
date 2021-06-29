@@ -1,2 +1,2 @@
-# scientism.github.io
-Sci page
+# htmlacademy.github.io
+Мой первый хостинг
